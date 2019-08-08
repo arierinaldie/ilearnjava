@@ -1,8 +1,8 @@
 [submodule "bo-ilearnjava"]
-    path = bo-ilearnjava
-    url = https://github.com/rinaldiarie/bo-ilearnjava.git
+	path = bo-ilearnjava
+	url = https://github.com/rinaldiarie/bo-ilearnjava.git
     ignore = dirty
 [submodule "app-ilearnjava"]
-    path = app-ilearnjava
-    url = https://github.com/rinaldiarie/app-ilearnjava.git
+	path = app-ilearnjava
+	url = https://github.com/rinaldiarie/app-ilearnjava.git
     ignore = dirty
