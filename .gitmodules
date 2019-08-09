@@ -6,3 +6,6 @@
 	path = app-ilearnjava
 	url = https://github.com/rinaldiarie/app-ilearnjava.git
     ignore = dirty
+[submodule "docker"]
+	path = docker
+	url = https://github.com/rinaldiarie/docker-ilearnjava.git
